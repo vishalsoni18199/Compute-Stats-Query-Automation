@@ -1,1 +1,0 @@
-# Compute-Stats-Query-Automation
